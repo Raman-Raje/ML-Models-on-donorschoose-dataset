@@ -1,5 +1,6 @@
 Assignment:
 -------------
+![picture alt](Image_1.jpeg)
 **1. Implement Model 1 as per below**
 
     * Input_seq_total_text_data --- You have to give Total text data columns. After this use the Embedding layer to get word vectors. Use given predefined glove word vectors, don't train any word vectors. After this use LSTM and get the LSTM output and Flatten that output.
